@@ -1,4 +1,3 @@
-```
 # Tipo de usuario
 - [ ] Alfa
 - [ ] Bravo 
@@ -12,4 +11,3 @@
 - [ ] Refactor
 - [ ] Performance
 - [ ] Testing
-```
