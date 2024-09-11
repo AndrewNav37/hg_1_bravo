@@ -1,6 +1,6 @@
 # hg_1_bravo
 
-|| Alias  | Integrante |
+| Alias  | Integrante |
 | ------------- | ------------- |
 | Alfa  | Victor Apolinares  |
 | Charlie  | Laura |
