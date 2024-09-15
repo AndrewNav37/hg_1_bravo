@@ -1,8 +1,8 @@
 # hg_1_bravo
 
-| Alias  | Integrante |
-| ------------- | ------------- |
-| Alfa  | Victor Apolinares  |
-| Charlie  | Laura |
-| Bravo | Andres |
-| Delta | Jose Serrano |
+| Alias  | Integrante | Ubicacion |
+| ------------- | ------------- | ------------- |
+| Alfa  | Victor Apolinares  | Caracas |
+| Bravo | Andres | Falcon |
+| Charlie  | Laura | Charallave |
+| Delta | Jose Serrano | Caracas |
